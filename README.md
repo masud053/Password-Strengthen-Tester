@@ -13,3 +13,4 @@ step1: Open your kali linux terminal
 step1: run the following command:
        "python3 pass_checker.py"
 step3: Input your password.
+
